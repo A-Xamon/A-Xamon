@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @A-Xamon
+- 👀 I’m interested in learn to program a lot 
+- 🌱 I’m currently learning HTML CSS and JavaScript
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm in a vocational training in microcomputer systems and networks
