@@ -9,4 +9,4 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2007<br>📚 I'm currently learning HTML CSS JavaScript, Powershell and Bash <br>🎯 Goals: Java & Python</p>
+<p align="left">📚 I'm currently learning HTML CSS JavaScript, Powershell and Bash <br>🎯 Goals: Java & Python</p>
